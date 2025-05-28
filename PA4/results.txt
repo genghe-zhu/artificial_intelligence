@@ -1,0 +1,184 @@
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 4
+Solution: {'WA': 'Red', 'NT': 'Blue', 'SA': 'Green'}
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 5
+No Solution Found
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 8
+Solution: {'WA': 'Red', 'NT': 'Blue', 'SA': 'Green', 'Q': 'Red', 'NSW': 'Blue', 'V': 'Red', 'T': 'Red'}
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 30
+Solution: {'WA': 'Red', 'NSW': 'Blue', 'T': 'Red', 'SA': 'Green', 'V': 'Red', 'Q': 'Red', 'NT': 'Blue'}
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 8
+Solution: {'WA': 'Red', 'V': 'Red', 'Q': 'Red', 'SA': 'Blue', 'NT': 'Green', 'NSW': 'Green', 'T': 'Red'}
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 5661071
+Solution: {'AK': 'Red', 'AL': 'Red', 'AR': 'Red', 'AZ': 'Red', 'CA': 'Blue', 'CO': 'Blue', 'CT': 'Red', 
+    'DC': 'Red', 'DE': 'Red', 'FL': 'Blue', 'GA': 'Green', 'HI': 'Red', 'IA': 'Red', 'ID': 'Red', 
+    'IL': 'Blue', 'IN': 'Red', 'KS': 'Red', 'KY': 'Green', 'LA': 'Green', 'MA': 'Blue', 'MD': 'Blue', 
+    'ME': 'Red', 'MI': 'Blue', 'MN': 'Green', 'MO': 'Yellow', 'MS': 'Yellow', 'MT': 'Green', 'NC': 'Red', 
+    'ND': 'Red', 'NE': 'Green', 'NH': 'Green', 'NJ': 'Blue', 'NM': 'Yellow', 'NV': 'Yellow', 'NY': 'Yellow', 
+    'OH': 'Yellow', 'OK': 'Green', 'OR': 'Green', 'PA': 'Green', 'RI': 'Green', 'SC': 'Blue', 'SD': 'Blue', 
+    'TN': 'Blue', 'TX': 'Blue', 'UT': 'Green', 'VA': 'Yellow', 'VT': 'Red', 'WA': 'Blue', 'WI': 'Yellow', 
+    'WV': 'Red', 'WY': 'Yellow'}
+
+Map Coloring Problem:
+Variable heuristic: mrv_heuristic
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 52
+
+Map Coloring Problem:
+Variable heuristic: degree_heuristic
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 52
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: lcv_heuristic
+AC3 used: No
+Number of Calls: 8971848
+
+Map Coloring Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: Yes
+Number of Calls: 52
+
+*******************************************
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 5
+Solution: 
+BDD
+BDD
+ACC
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 9
+Solution: 
+BDD
+BDD
+Acc
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 4
+Solution: 
+bbb
+abb
+aab
+aaa
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 5
+Solution: 
+AAddddddd.
+AAbbbbbCCC
+AAbbbbbCCC
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 23
+Solution: 
+ddd
+bbd
+ACC
+ACC
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 6
+Solution: 
+ACCCCEE
+AbbbDDE
+AAbDDEE
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 3221
+Solution: 
+Efff
+EEEf
+ccdd
+AcBd
+AABB
+
+Circuit Board Layout Problem:
+Variable heuristic: mrv_heuristic
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 362
+
+Circuit Board Layout Problem:
+Variable heuristic: degree_heuristic
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 3221
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: lcv_heuristic
+AC3 used: No
+Number of Calls: 7
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: Yes
+Number of Calls: 29
+
+Circuit Board Layout Problem:
+Variable heuristic: get_next_var
+Domain heuristic: get_domain
+AC3 used: No
+Number of Calls: 80252
+Solution: 
+cciiKlll
+BcEiKKKl
+BBEEEJhh
+AddGJJhF
+AAdGGFFF
